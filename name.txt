@@ -1,11 +1,2 @@
 This is a file
 Edited for the first time
-sdf
-
-some changes
-
-Commiting without commit title
-
-updating file 
-
-Creating new branch
