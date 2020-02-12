@@ -6,4 +6,4 @@ some changes
 
 Commiting without commit title
 
-hidden commit
+Commiting to a new branch
