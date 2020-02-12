@@ -3,3 +3,5 @@ Edited for the first time
 sdf
 
 some changes
+
+Commiting without commit title
