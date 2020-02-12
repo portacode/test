@@ -6,4 +6,4 @@ some changes
 
 Commiting without commit title
 
-Commiting to a new branch
+updating file 
